@@ -1,0 +1,9 @@
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Model\bin\Debug\netstandard2.0\BlazorCrud.Model.deps.json
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Model\bin\Debug\netstandard2.0\BlazorCrud.Model.dll
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Model\bin\Debug\netstandard2.0\BlazorCrud.Model.pdb
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Model\obj\Debug\netstandard2.0\BlazorCrud.Model.csprojAssemblyReference.cache
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Model\obj\Debug\netstandard2.0\BlazorCrud.Model.AssemblyInfoInputs.cache
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Model\obj\Debug\netstandard2.0\BlazorCrud.Model.AssemblyInfo.cs
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Model\obj\Debug\netstandard2.0\BlazorCrud.Model.csproj.CoreCompileInputs.cache
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Model\obj\Debug\netstandard2.0\BlazorCrud.Model.dll
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Model\obj\Debug\netstandard2.0\BlazorCrud.Model.pdb

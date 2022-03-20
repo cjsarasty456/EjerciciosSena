@@ -1,0 +1,40 @@
+﻿@page "/FilmDetails"
+@using Interfaces
+@inject IFilmService FilmService
+<h3>FilmDetails</h3>
+
+<EditForm Model="@film">
+    <table class="table">
+        <tr>
+            <td>Title:</td>
+            <td><input type="text" @bind="film.Title" class="form-control"/></td>
+        </tr>
+        <tr>
+            <td>Director:</td>
+            <td><input type="text" @bind="film.Director" class="form-control"/></td>
+        </tr>
+        <tr>
+            <td>Realise Date:</td>
+            <td><input type="text" @bind="film.ReleaseDate"  class="form-control"/></td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center">
+                <input type="submit" value="save" @onclick="SaveFilm"  class="btn btn-success"/>
+                <input type="button" value="Cancel" @onclick="CancelFilm" class="btn btn-warning"/>
+            </td>
+        </tr>
+    </table>
+</EditForm>
+
+@code {
+    BlazorCrud.Model.Film film = new BlazorCrud.Model.Film();
+
+    protected void CancelFilm()
+    {
+
+    }
+    protected async Task SaveFilm()
+    {
+        await FilmService.SaveFilm(film);
+    }
+}

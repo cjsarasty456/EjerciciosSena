@@ -1,0 +1,13 @@
+D:\desarrollo\asp core\coreBlazorCRUD\coreBlazorCRUD\obj\Debug\netcoreapp3.1\coreBlazorCRUD.UI.csprojAssemblyReference.cache
+D:\desarrollo\asp core\coreBlazorCRUD\coreBlazorCRUD\obj\Debug\netcoreapp3.1\coreBlazorCRUD.UI.AssemblyInfoInputs.cache
+D:\desarrollo\asp core\coreBlazorCRUD\coreBlazorCRUD\obj\Debug\netcoreapp3.1\coreBlazorCRUD.UI.AssemblyInfo.cs
+D:\desarrollo\asp core\coreBlazorCRUD\coreBlazorCRUD\obj\Debug\netcoreapp3.1\coreBlazorCRUD.UI.csproj.CoreCompileInputs.cache
+D:\desarrollo\asp core\coreBlazorCRUD\coreBlazorCRUD\obj\Debug\netcoreapp3.1\coreBlazorCRUD.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\desarrollo\asp core\coreBlazorCRUD\coreBlazorCRUD\obj\Debug\netcoreapp3.1\coreBlazorCRUD.UI.RazorComponent.input.cache
+D:\desarrollo\asp core\coreBlazorCRUD\coreBlazorCRUD\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\desarrollo\asp core\coreBlazorCRUD\coreBlazorCRUD\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FilmDetails.razor.g.cs
+D:\desarrollo\asp core\coreBlazorCRUD\coreBlazorCRUD\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\desarrollo\asp core\coreBlazorCRUD\coreBlazorCRUD\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\desarrollo\asp core\coreBlazorCRUD\coreBlazorCRUD\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\desarrollo\asp core\coreBlazorCRUD\coreBlazorCRUD\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\desarrollo\asp core\coreBlazorCRUD\coreBlazorCRUD\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs

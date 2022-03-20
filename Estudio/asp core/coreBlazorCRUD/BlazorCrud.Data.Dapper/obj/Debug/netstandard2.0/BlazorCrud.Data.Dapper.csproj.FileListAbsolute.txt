@@ -1,0 +1,12 @@
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Data.Dapper\bin\Debug\netstandard2.0\BlazorCrud.Data.Dapper.deps.json
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Data.Dapper\bin\Debug\netstandard2.0\BlazorCrud.Data.Dapper.dll
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Data.Dapper\bin\Debug\netstandard2.0\BlazorCrud.Data.Dapper.pdb
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Data.Dapper\bin\Debug\netstandard2.0\BlazorCrud.Model.dll
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Data.Dapper\bin\Debug\netstandard2.0\BlazorCrud.Model.pdb
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Data.Dapper\obj\Debug\netstandard2.0\BlazorCrud.Data.Dapper.csprojAssemblyReference.cache
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Data.Dapper\obj\Debug\netstandard2.0\BlazorCrud.Data.Dapper.AssemblyInfoInputs.cache
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Data.Dapper\obj\Debug\netstandard2.0\BlazorCrud.Data.Dapper.AssemblyInfo.cs
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Data.Dapper\obj\Debug\netstandard2.0\BlazorCrud.Data.Dapper.csproj.CoreCompileInputs.cache
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Data.Dapper\obj\Debug\netstandard2.0\BlazorCrud.Data.Dapper.csproj.CopyComplete
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Data.Dapper\obj\Debug\netstandard2.0\BlazorCrud.Data.Dapper.dll
+D:\desarrollo\asp core\coreBlazorCRUD\BlazorCrud.Data.Dapper\obj\Debug\netstandard2.0\BlazorCrud.Data.Dapper.pdb

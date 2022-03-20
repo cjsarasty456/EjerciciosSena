@@ -1,0 +1,18 @@
+2021-01-10 23:16:51.227-05:00 [escritorio-carlos][D:2][T:1][ERROR] DotNetNuke.ComponentModel.ProviderInstaller - System.Configuration.ConfigurationErrorsException: Could not load provider DNNConnect.CKEditorProvider.CKHtmlEditorProvider, DNNConnect.CKEditorProvider
+2021-01-10 23:16:58.925-05:00 [escritorio-carlos][D:2][T:11][ERROR] DotNetNuke.Data.PetaPoco.PetaPocoHelper - [1] Error executing SQL: ;Exec dbo.GetDatabaseVersion
+Corruption in database ID 6, object ID 60 possibly due to schema or catalog inconsistency. Run DBCC CHECKCATALOG.
+File activation failure. The physical file name "D:\desarrollo\ASP.NET\dnn\App_Data\Database_log.ldf" may be incorrect.
+New log file 'D:\desarrollo\ASP.NET\dnn\App_Data\Database_log.ldf' was created.
+Changed database context to 'D:\DESARROLLO\ASP.NET\DNN\APP_DATA\DATABASE.MDF'.
+Changed language setting to us_english.
+2021-01-10 23:17:00.827-05:00 [escritorio-carlos][D:3][T:1][ERROR] DotNetNuke.ComponentModel.ProviderInstaller - System.Configuration.ConfigurationErrorsException: Could not load provider DNNConnect.CKEditorProvider.CKHtmlEditorProvider, DNNConnect.CKEditorProvider
+2021-01-10 23:17:03.293-05:00 [escritorio-carlos][D:3][T:9][ERROR] DotNetNuke.Data.PetaPoco.PetaPocoHelper - [1] Error executing SQL: ;Exec dbo.GetDatabaseVersion
+Could not find stored procedure 'dbo.GetDatabaseVersion'.
+2021-01-10 23:17:10.395-05:00 [escritorio-carlos][D:4][T:1][ERROR] DotNetNuke.ComponentModel.ProviderInstaller - System.Configuration.ConfigurationErrorsException: Could not load provider DNNConnect.CKEditorProvider.CKHtmlEditorProvider, DNNConnect.CKEditorProvider
+2021-01-10 23:17:15.196-05:00 [escritorio-carlos][D:4][T:11][ERROR] DotNetNuke.Data.PetaPoco.PetaPocoHelper - [1] Error executing SQL: ;Exec dbo.GetDatabaseVersion
+Could not find stored procedure 'dbo.GetDatabaseVersion'.
+2021-01-10 23:18:15.956-05:00 [escritorio-carlos][D:5][T:1][ERROR] DotNetNuke.ComponentModel.ProviderInstaller - System.Configuration.ConfigurationErrorsException: Could not load provider DNNConnect.CKEditorProvider.CKHtmlEditorProvider, DNNConnect.CKEditorProvider
+2021-01-10 23:18:16.047-05:00 [escritorio-carlos][D:5][T:10][ERROR] DotNetNuke.Data.PetaPoco.PetaPocoHelper - [1] Error executing SQL: ;Exec dbo.GetDatabaseVersion
+Could not find stored procedure 'dbo.GetDatabaseVersion'.
+2021-01-10 23:18:16.717-05:00 [escritorio-carlos][D:5][T:8][ERROR] DotNetNuke.Data.PetaPoco.PetaPocoHelper - [1] Error executing SQL: ;Exec dbo.GetDatabaseVersion
+Could not find stored procedure 'dbo.GetDatabaseVersion'.

@@ -1,0 +1,583 @@
+01/11/2021 04:18:16 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verificación de creación de carpetas Verificación de creación de archivos Verificación de borrado de archivos Verificación de borrado de carpetas 
+01/11/2021 04:18:16 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verificando configuración IIS
+01/11/2021 04:18:16 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando el script de base de datos DotNetNuke.Schema
+01/11/2021 04:18:16 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\DotNetNuke.Schema.SqlDataProvider
+01/11/2021 04:18:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\DotNetNuke.Schema.SqlDataProvider
+01/11/2021 04:18:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando el script de base de datos DotNetNuke.Data
+01/11/2021 04:18:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\DotNetNuke.Data.SqlDataProvider
+01/11/2021 04:18:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\DotNetNuke.Data.SqlDataProvider
+01/11/2021 04:18:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando scripts de base de datos de Membership 
+01/11/2021 04:18:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallMemberRoleProvider
+01/11/2021 04:18:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End InstallMemberRoleProvider
+01/11/2021 04:18:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización08.00.04.01
+01/11/2021 04:18:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\08.00.04.01.SqlDataProvider
+01/11/2021 04:18:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\08.00.04.01.SqlDataProvider
+01/11/2021 04:18:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\08.00.04.01.SqlDataProvider
+01/11/2021 04:18:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\08.00.04.01.SqlDataProvider
+01/11/2021 04:18:29 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.00.00
+01/11/2021 04:18:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.00.00.SqlDataProvider
+01/11/2021 04:18:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.00.00.SqlDataProvider
+01/11/2021 04:18:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.00.00.SqlDataProvider
+01/11/2021 04:18:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.00.00.SqlDataProvider
+01/11/2021 04:18:29 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.00.00.01
+01/11/2021 04:18:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.00.00.01.SqlDataProvider
+01/11/2021 04:18:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.00.00.01.SqlDataProvider
+01/11/2021 04:18:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.00.00.01.SqlDataProvider
+01/11/2021 04:18:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.00.00.01.SqlDataProvider
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.00.01
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.00.01.SqlDataProvider
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.00.01.SqlDataProvider
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.00.01.SqlDataProvider
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.00.01.SqlDataProvider
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.01.00
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.01.00.SqlDataProvider
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.01.00.SqlDataProvider
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.01.00.SqlDataProvider
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.01.00.SqlDataProvider
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.01.01
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.01.01.SqlDataProvider
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.01.01.SqlDataProvider
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.01.01.SqlDataProvider
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.01.01.SqlDataProvider
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.02.00
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.02.00.SqlDataProvider
+01/11/2021 04:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.02.00.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.02.00.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.02.00.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.02.01
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.02.01.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.02.01.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.02.01.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.02.01.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.02.02
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.02.02.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.02.02.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.02.02.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.02.02.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.03.00
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.00.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.00.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.00.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.00.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.03.00.01
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.00.01.SqlDataProvider
+01/11/2021 04:18:31 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.00.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.00.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.00.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.03.00.02
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.00.02.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.00.02.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.00.02.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.00.02.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.03.01
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.03.02
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.02.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.02.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.02.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.03.02.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.04.00
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.00.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.00.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.00.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.00.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.04.01
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.04.02
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.02.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.02.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.02.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.02.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.04.03
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.03.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.03.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.03.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.03.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.04.04
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.04.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.04.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.04.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.04.04.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.05.00
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.05.00.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.05.00.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.05.00.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.05.00.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.05.01
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.05.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.05.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.05.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.05.01.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.06.00
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.06.00.SqlDataProvider
+01/11/2021 04:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.06.00.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.06.00.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.06.00.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.06.01
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.06.01.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.06.01.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.06.01.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.06.01.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.06.02
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.06.02.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.06.02.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.06.02.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.06.02.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.07.00
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.07.00.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.07.00.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.07.00.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.07.00.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.07.01
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.07.01.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.07.01.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.07.01.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.07.01.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.07.02
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.07.02.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.07.02.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.07.02.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.07.02.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.08.00
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.08.00.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.08.00.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.08.00.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.08.00.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Aplicando script de actualización09.08.01
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.08.01.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.08.01.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.08.01.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\desarrollo\ASP.NET\dnn\Providers\DataProviders\SqlDataProvider\09.08.01.SqlDataProvider
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 8.0.4.1
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 8.0.4
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.0.0
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.0.0
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.0.0.1
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.0.0
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.0.1
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.0.1
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.1.0
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.1.0
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Host Settings
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Site Management
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Schedule
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Superuser Accounts
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Extensions
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Device Detection Management
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//Extensions
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SiteSettings
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SecurityRoles
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//Taxonomy
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SiteRedirectionManagement
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//DevicePreviewManagement
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SearchAdmin
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.MobileManagement Type:Module Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Modules.PreviewProfileManagement Type:Module Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.WebServer Type:DashboardControl Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Database Type:DashboardControl Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Host Type:DashboardControl Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Portals Type:DashboardControl Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Modules Type:DashboardControl Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Skins Type:DashboardControl Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.HostSettings Type:Module Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Languages Type:Module Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Lists Type:Module Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.LogViewer Type:Module Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.RecycleBin Type:Module Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Sitemap Type:Module Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.SiteWizard Type:Module Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:Dnn.Themes Type:Module Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Tabs Type:Module Version:
+01/11/2021 04:18:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Portals Type:Module Version:
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Scheduler Type:Module Version:
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.SearchAdmin Type:Module Version:
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.SQL Type:Module Version:
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Extensions Type:Module Version:
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Configuration Manager Type:Module Version:
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard Type:Module Version:
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Google Analytics Type:Module Version:
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Taxonomy Type:Module Version:
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:UrlManagement Type:Library Version:
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.1.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.1.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.2.0
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.2.0
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SearchEngineSiteMap
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//Solutions
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//BulkEmail
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Marketplace
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Module Definitions
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Portals
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:Superuser Accounts
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:Superuser Accounts
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:15
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:15
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.2.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.2.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:jQuery Type:Javascript_Library Version:1.9.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:jQuery-UI Type:Javascript_Library Version:1.11.3
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:jQuery-Migrate Type:Javascript_Library Version:1.2.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.2.2
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.2.2
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.3.0
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.0
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.3.0.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.0
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.3.0.2
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.0
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.3.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.3.2
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.2
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.4.0
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.4.0
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.4.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.4.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.4.2
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.4.2
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.4.3
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.4.3
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.4.4
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.4.4
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.5.0
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.5.0
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.5.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.5.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.6.0
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.6.0
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.6.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.6.1
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.6.2
+01/11/2021 04:18:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.6.2
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.7.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.7.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.7.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.7.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.7.2
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.7.2
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.8.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.8.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación a 9.8.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.8.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 8.0.4.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:08.00.04.01
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:8.0.4
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:8.0.4
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:08.00.04.01
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.0.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.00.00
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.0.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.0.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.00.00
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.0.0.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.00.00.01
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.0.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.0.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.00.00.01
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.0.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.00.01
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.0.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Installer.XmlMerge Target File dotnetnuke.config doesn't exist, ignore the merge process
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.0.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.00.01
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.1.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.01.00
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.1.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.1.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.01.00
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.1.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.01.01
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.1.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.1.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.01.01
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.2.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.02.00
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.2.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.2.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.02.00
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.2.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.02.01
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.2.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.2.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.02.01
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.2.2
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.02.02
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.2.2
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.2.2
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.02.02
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.3.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.00
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.00
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.3.0.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.00.01
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.00.01
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.3.0.2
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.00.02
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.00.02
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.3.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.01
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.1
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.01
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.3.2
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.02
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.2
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.2
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.02
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.4.0
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.04.00
+01/11/2021 04:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.4.0
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=targetFramework
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=targetFramework
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.4.0
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.04.00
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.4.1
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.04.01
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.4.1
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.4.1
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.04.01
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.4.2
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.04.02
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.4.2
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.4.2
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.04.02
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.4.3
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.04.03
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.4.3
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.4.3
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.04.03
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.4.4
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.04.04
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.4.4
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.4.4
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.04.04
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.5.0
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.05.00
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.5.0
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=key
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.5.0
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.05.00
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.5.1
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.05.01
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.5.1
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.5.1
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.05.01
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.6.0
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.06.00
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.6.0
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=key
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.6.0
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.06.00
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.6.1
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.06.01
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.6.1
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.6.1
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.06.01
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.6.2
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.06.02
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.6.2
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=fileExtension
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.6.2
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.06.02
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.7.0
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.07.00
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.7.0
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.7.0
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.07.00
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.7.1
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.07.01
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.7.1
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.7.1
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.07.01
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.7.2
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.07.02
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.7.2
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=key
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.7.2
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.07.02
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.8.0
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.08.00
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.8.0
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Installer.XmlMerge Start InsertNode:
+01/11/2021 04:18:36 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+01/11/2021 04:18:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.8.0
+01/11/2021 04:18:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.08.00
+01/11/2021 04:18:38 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando la configuración para 9.8.1
+01/11/2021 04:18:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.08.01
+01/11/2021 04:18:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.8.1
+01/11/2021 04:18:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.8.1
+01/11/2021 04:18:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.08.01
+01/11/2021 04:18:38 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 8.0.4.1
+01/11/2021 04:18:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:08.00.04.01
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.0.0
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.00.00
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.0.0.1
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.00.00.01
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.0.1
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.00.01
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.1.0
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.01.00
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.1.1
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.01.01
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.2.0
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.02.00
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.2.1
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.02.01
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.2.2
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.02.02
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.3.0
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.00
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.3.0.1
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.00.01
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.3.0.2
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.00.02
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.3.1
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.01
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.3.2
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.02
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.4.0
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.04.00
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.4.1
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.04.01
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.4.2
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.04.02
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.4.3
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.04.03
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.4.4
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.04.04
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.5.0
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.05.00
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.5.1
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.05.01
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.6.0
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.06.00
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.6.1
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.06.01
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.6.2
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.06.02
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.7.0
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.07.00
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.7.1
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.07.01
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.7.2
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.07.02
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.8.0
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.08.00
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Borrando archivos anteriores de 9.8.1
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.08.01
+01/11/2021 04:18:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Actualizando aplicación
+01/11/2021 04:18:40 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Library - DNNCE_Web.Deprecated_09.08.01_Install.zip
+01/11/2021 04:18:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Library\DNNCE_Web.Deprecated_09.08.01_Install.zip
+01/11/2021 04:18:40 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Library - DNNCE_Website.Deprecated_09.08.01_Install.zip
+01/11/2021 04:18:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Library\DNNCE_Website.Deprecated_09.08.01_Install.zip
+01/11/2021 04:18:40 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Library - Dnn.EditBar.UI_09.08.01_Install.zip
+01/11/2021 04:18:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\Dnn.EditBar.UI_09.08.01_Install.zip
+01/11/2021 04:18:40 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+01/11/2021 04:18:41 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Module - DDRMenu_09.08.01_Install.zip
+01/11/2021 04:18:41 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\DDRMenu_09.08.01_Install.zip
+01/11/2021 04:18:42 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+01/11/2021 04:18:42 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Library - Dnn.PersonaBar.UI_09.08.01_Install.zip
+01/11/2021 04:18:42 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\Dnn.PersonaBar.UI_09.08.01_Install.zip
+01/11/2021 04:18:44 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:
+01/11/2021 04:18:44 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:
+01/11/2021 04:18:44 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:
+01/11/2021 04:18:44 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:
+01/11/2021 04:18:44 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+01/11/2021 04:18:44 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Connector - DNNCE_AzureConnector_09.08.01_Install.zip
+01/11/2021 04:18:44 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\DNNCE_AzureConnector_09.08.01_Install.zip
+01/11/2021 04:18:44 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Module - DNNCE_Console_09.08.01_Install.zip
+01/11/2021 04:18:44 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\DNNCE_Console_09.08.01_Install.zip
+01/11/2021 04:18:45 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Module - DNNCE_CoreMessaging_09.08.01_Install.zip
+01/11/2021 04:18:45 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\DNNCE_CoreMessaging_09.08.01_Install.zip
+01/11/2021 04:18:46 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Module - DNNCE_HTML_09.08.01_Install.zip
+01/11/2021 04:18:46 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\DNNCE_HTML_09.08.01_Install.zip
+01/11/2021 04:18:47 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Module - DNNCE_HtmlEditorManager_09.08.01_Install.zip
+01/11/2021 04:18:47 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\DNNCE_HtmlEditorManager_09.08.01_Install.zip
+01/11/2021 04:18:47 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Module - DNNCE_Journal_09.08.01_Install.zip
+01/11/2021 04:18:47 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\DNNCE_Journal_09.08.01_Install.zip
+01/11/2021 04:18:47 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Module - DNNCE_MemberDirectory_09.08.01_Install.zip
+01/11/2021 04:18:47 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\DNNCE_MemberDirectory_09.08.01_Install.zip
+01/11/2021 04:18:48 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Module - DNNCE_RazorHost_09.08.01_Install.zip
+01/11/2021 04:18:48 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\DNNCE_RazorHost_09.08.01_Install.zip
+01/11/2021 04:18:49 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Skin - Skin_Xcillion_09.08.01_Install.zip
+01/11/2021 04:18:49 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Skin\Skin_Xcillion_09.08.01_Install.zip
+01/11/2021 04:18:49 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Library - DNNCE_SiteExportImport_09.08.01_Install.zip
+01/11/2021 04:18:49 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\DNNCE_SiteExportImport_09.08.01_Install.zip
+01/11/2021 04:18:50 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Module - DNNCE_SocialGroups_09.08.01_Install.zip
+01/11/2021 04:18:50 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\DNNCE_SocialGroups_09.08.01_Install.zip
+01/11/2021 04:18:51 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Connector - GoogleAnalyticsConnector_09.08.01_Install.zip
+01/11/2021 04:18:51 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\GoogleAnalyticsConnector_09.08.01_Install.zip
+01/11/2021 04:18:51 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Connector - GoogleTagManagerConnector_09.08.01_Install.zip
+01/11/2021 04:18:51 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\GoogleTagManagerConnector_09.08.01_Install.zip
+01/11/2021 04:18:51 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Library - Newtonsoft.Json_10.0.3.21018_Install.zip
+01/11/2021 04:18:51 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\Newtonsoft.Json_10.0.3.21018_Install.zip
+01/11/2021 04:18:52 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Library - Telerik_09.08.01_Install.zip
+01/11/2021 04:18:52 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\Telerik_09.08.01_Install.zip
+01/11/2021 04:18:53 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando JavaScript_Library - jQuery_03.05.01_Install.zip
+01/11/2021 04:18:53 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\JavaScriptLibrary\jQuery_03.05.01_Install.zip
+01/11/2021 04:18:54 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando JavaScript_Library - Knockout_03.03.00_Install.zip
+01/11/2021 04:18:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\JavaScriptLibrary\Knockout_03.03.00_Install.zip
+01/11/2021 04:18:54 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando JavaScript_Library - Selectize_00.12.06_Install.zip
+01/11/2021 04:18:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\JavaScriptLibrary\Selectize_00.12.06_Install.zip
+01/11/2021 04:18:54 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Provider - AspNetClientCapabilityProvider_09.08.01_Install.zip
+01/11/2021 04:18:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Provider\AspNetClientCapabilityProvider_09.08.01_Install.zip
+01/11/2021 04:18:54 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+01/11/2021 04:18:54 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+01/11/2021 04:18:54 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Provider - DNN_SimpleWebFarmCachingProvider_09.08.01_Install.zip
+01/11/2021 04:18:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Provider\DNN_SimpleWebFarmCachingProvider_09.08.01_Install.zip
+01/11/2021 04:18:54 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+01/11/2021 04:18:54 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+01/11/2021 04:18:54 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Provider - DNNCE_FolderProviders_09.08.01_Install.zip
+01/11/2021 04:18:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Provider\DNNCE_FolderProviders_09.08.01_Install.zip
+01/11/2021 04:18:55 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+01/11/2021 04:18:55 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Provider - DNNConnect.CKEditorProvider_09.08.01_Install.zip
+01/11/2021 04:18:55 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Provider\DNNConnect.CKEditorProvider_09.08.01_Install.zip
+01/11/2021 04:19:06 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+01/11/2021 04:19:06 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando PersonaBar - Dnn.PersonaBar.Extensions_09.08.01_Install.zip
+01/11/2021 04:19:06 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\Dnn.PersonaBar.Extensions_09.08.01_Install.zip
+01/11/2021 04:19:09 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando Module - DNNCE_DigitalAssetsManagement_09.08.01_Install.zip
+01/11/2021 04:19:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\Module\DNNCE_DigitalAssetsManagement_09.08.01_Install.zip
+01/11/2021 04:19:10 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando JavaScript_Library - jQueryMigrate_03.02.00_Install.zip
+01/11/2021 04:19:10 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\JavaScriptLibrary\jQueryMigrate_03.02.00_Install.zip
+01/11/2021 04:19:10 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando JavaScript_Library - jQueryUI_01.12.01_Install.zip
+01/11/2021 04:19:10 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\JavaScriptLibrary\jQueryUI_01.12.01_Install.zip
+01/11/2021 04:19:10 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Instalando JavaScript_Library - KnockoutMapping_02.04.01_Install.zip
+01/11/2021 04:19:10 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\desarrollo\ASP.NET\dnn\Install\JavaScriptLibrary\KnockoutMapping_02.04.01_Install.zip
+01/11/2021 04:19:10 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Inicializando configuración del sistema 
+01/11/2021 04:19:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Creando el sitio [My Website]
+01/11/2021 04:19:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start CreateUserInfo:host
+01/11/2021 04:19:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Crear el superusuario
+01/11/2021 04:19:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Creando el superusuariohost
+01/11/2021 04:19:52 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:HTML Editor Manager
+01/11/2021 04:19:52 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:HTML Editor Manager
+01/11/2021 04:19:53 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveModule:RadEditor Manager
+01/11/2021 04:19:53 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:116
+01/11/2021 04:19:53 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:116
+01/11/2021 04:19:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:File Management
+01/11/2021 04:19:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:File Management
+01/11/2021 04:19:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:121
+01/11/2021 04:19:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:121
+01/11/2021 04:19:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddAdminPage:File Management
+01/11/2021 04:19:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPagePermission:View
+01/11/2021 04:19:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPagePermission:Edit
+01/11/2021 04:19:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:File Management
+01/11/2021 04:19:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:121
+01/11/2021 04:19:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:121
+01/11/2021 04:19:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:File Manager
+01/11/2021 04:19:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//FileManager
