@@ -1,0 +1,16 @@
+<!-- se crea un formulario para crear un empleado -->
+<!-- con los datos que tiene la tabla en mysql -->
+<h1>Crear empleado</h1>
+<form method="post" action="/store" enctype="multipart/form-data">
+    <label for="">Nombre:</label>
+    <input type="text" name="txtNombre" id="txtNombre">
+    <br>
+    <label for="">Correo:</label>
+    <input type="email" name="txtCorreo" id="txtCorreo">
+    <br>
+    <label for="">Foto:</label>
+    <input type="file" name="txtfoto" id="txtfoto">
+    <br>
+    <br>
+    <input type="submit" value="Agregar">
+</form>

@@ -1,0 +1,31 @@
+Este ejercicio es un CRUD en python para el registro de los empleado
+Herramientas requeridas
+Python
+flask
+visual code
+MariaDB
+
+Plugin 
+Boostrap v4 Snippets
+Flask Snippets
+Jinja2 Snippet
+flask-snippets
+
+
+programas python
+pip install Flask
+pip install Flask-MySQL
+pip install Jinja2
+
+Para verificar que los programas necesarios están
+instalados en python se ejecuta el comando
+
+
+archivo
+app.py es el archivo principal
+templates: se utiliza para los elementos HTML
+templates\empleados: para guardar las páginas de empleados
+uploads\ carpeta que contiene los archivos cargados al sistema
+
+para ejecutar el archivo python en terminal se escribe
+python app.py
